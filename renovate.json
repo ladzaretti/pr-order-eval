@@ -1,0 +1,10 @@
+{
+  "dependencyDashboard": true,
+  "packageRules": [
+    {
+      "matchConfidence": ["high"],
+      "matchUpdateTypes": ["major", "minor", "patch"],
+      "groupName": "testing"
+    }
+  ]
+}
